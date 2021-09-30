@@ -2,7 +2,7 @@
 #include <string.h>
 #include <conio.h>
 
-//DEVELOPED BY Eyakub
+//DEVELOPED BY MEGHANA
 
 struct order{
     char name[50];
@@ -278,9 +278,7 @@ int main ()
                 system ("COLOR 2");
                 printf ("We are closed come by again\n\n");
                 printf ("Project submitted by Team ERROR NOT FOUND\n\n");
-                printf ("Our hearty gratitude to honorable teacher\n\n");
-                printf ("           Md. Nasir Uddin Eisty       \n");
-                printf ("\n DEVELOPED BY Eyakub\n\n");
+                printf ("\n DEVELOPED BY Meghana\n\n");
                 return 0;
             }
         }
